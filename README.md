@@ -1,5 +1,15 @@
 # AI-Based Sudoku Puzzle Game
 
+## Project Members
+
+| Serial No. | Name | ID |
+|------------|------|------------|
+| 1 | Nuzhat Tasnim Silvia | 2212314042 |
+| 2 | Md Al Amin | 2212581042 |
+| 3 | Sunbib Ahmed | 2212283642 |
+| 4 | Saadia Rahman Oyshi | 2211047642 |
+
+
 ## Project Description
 
 This is a beginner-friendly Sudoku puzzle game written in Python and Tkinter. The player fills a 9x9 grid following normal Sudoku rules. Behind the scenes, the game uses AI techniques — a **Constraint Satisfaction Problem (CSP)** and **Backtracking** — to generate puzzles, solve them, check answers, and give intelligent hints.
