@@ -1,4 +1,9 @@
-# AI-Based Sudoku Puzzle Game
+# AI-Based Sudoku Puzzle Game -- CSE440 Project
+
+Course: cse440
+Group: 02|Section: 02
+Institution: North South University
+Semester: Summer 2026
 
 ## Project Members
 
